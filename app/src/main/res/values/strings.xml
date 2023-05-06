@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Challenge5</string>
+    <string name="movie_app">MOVIE APP</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="btnlogin">login</string>
+    <string name="register_here">Register here</string>
+    <string name="fullname">FullName</string>
+    <string name="username">Username</string>
+    <string name="update">update</string>
+    <string name="back_to_home">back to home</string>
+    <string name="movie_app_regist">MOVIE APP</string>
+    <string name="register">Register</string>
+    <string name="email_regist">Email</string>
+    <string name="password_regist">Password</string>
+    <string name="btnregister">register</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="etfullname">Fullname</string>
+    <string name="etusername">Username</string>
+    <string name="choose_photo">Choose Photo</string>
+    <string name="delete_photo">Delete Photo</string>
+    <string name="done">Done</string>
+    <string name="title_news">Title News</string>
+    <string name="date_news">Date News</string>
+    <string name="change_language">change language</string>
+    <string name="btnloginnew">LOGIN</string>
+    <string name="registerinlogin">REGISTER</string>
+    <string name="btninregister">REGISTER</string>
+</resources>

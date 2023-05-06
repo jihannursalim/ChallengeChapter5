@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Challenge5</string>
+    <string name="movie_app">APLIKASI FILM</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Sandi</string>
+    <string name="btnlogin">MASUK</string>
+    <string name="register_here">Daftar di sini</string>
+    <string name="fullname">Nama Lengkap</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="update">UBAH</string>
+    <string name="back_to_home">KEMBALI KE BERANDA</string>
+    <string name="movie_app_regist">APLIKASI FILM</string>
+    <string name="email_regist">Email</string>
+    <string name="password_regist">Sandi</string>
+    <string name="sign_in_with_google">Masuk Dengan Google</string>
+    <string name="etfullname">Nama Lengkap</string>
+    <string name="etusername">Nama Pengguna</string>
+    <string name="choose_photo">Pilih Gambar</string>
+    <string name="delete_photo">Hapus Gambar</string>
+    <string name="done">SELESAI</string>
+    <string name="title_news">Judul Berita</string>
+    <string name="date_news">Tanggal Berita</string>
+    <string name="change_language">UBAH BAHASA</string>
+</resources>
